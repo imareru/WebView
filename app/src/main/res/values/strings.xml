@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VkWeb</string>
+    <string name="loading">загрузка</string>
+    <string name="back">назад</string>
+    <string name="go">вперед</string>
+    <string name="copy">URL</string>
+    <string name="cash">кэш</string>
+    <string name="out">-</string>
+</resources>
